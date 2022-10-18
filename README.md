@@ -11,4 +11,5 @@ This list explains my current progress in the course.
     3. Working with VSCode instead as it is very similar.
     4. Lesson 14 was unnecessarry because I am not using IntelliJ IDEA but I watched it anyway
 ### Section 3
-    1. 
+    1. Created a new folder called HelloWorld and added a HelloWorld.py.
+    2. Used print command to create my Hello World statement.
