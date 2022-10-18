@@ -16,4 +16,7 @@ This list explains my current progress in the course.
     3. Added more commands to the Hello World file to add, multiply, and even put in extra space
     4. Created a dictionary file (Dictionary.md) that will e used to track words and functions used in Python. 
     5. Created a new file that prints a string and then prints the results of a mathematic calculation.
-    
+    6. Created a new file that produces several strings and discussed concatenation
+    7. Created an input field that will prompt user to input their name so that it can be added to the string that is printed.
+    8. Created two versions of the printed value, one with a space and one without.
+    9. We are now on module 3.19
