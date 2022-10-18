@@ -13,3 +13,7 @@ This list explains my current progress in the course.
 ### Section 3
     1. Created a new folder called HelloWorld and added a HelloWorld.py.
     2. Used print command to create my Hello World statement.
+    3. Added more commands to the Hello World file to add, multiply, and even put in extra space
+    4. Created a dictionary file (Dictionary.md) that will e used to track words and functions used in Python. 
+    5. Created a new file that prints a string and then prints the results of a mathematic calculation.
+    
