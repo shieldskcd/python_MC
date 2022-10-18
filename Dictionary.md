@@ -32,7 +32,7 @@ This dictionary will serve as a way of listing all the different functions discu
 ## O
 
 ## P
-* ''print'' - Print function is used to display text on the screen by enclosing the desired text in parenthesis ( ). For example: `print("Hell, World!")` will display the words "Hello World" on the console.
+* ''print'' - Print function is used to display text on the screen by enclosing the desired text in parenthesis ( ). For example: `print("Hello, World!")` will display the words "Hello World" on the console.
 
 ## Q
 
