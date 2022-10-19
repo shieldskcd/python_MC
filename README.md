@@ -23,5 +23,5 @@ This list explains my current progress in the course.
     10. Created a new file that lets us test splitting text strings with various escape characters and methods. 
     11. Created an exercise that uses tabs and newlines in the string to sepearate various text strings.
     12. Experimented with the use of the double backslash `\\` when a line break is needed. 
-    13. Used the `raw` string (`r`) to convert a string to Raw.
+    13. Used the `raw` string `(r)` to convert a string to Raw.
     14. Now we are on Module 3.21
